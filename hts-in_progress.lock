@@ -1,0 +1,7 @@
+Mirror in progress since Sat, 09 Jan 2021 06:21:07 .. please wait!
+httrack https://www.pluralsight.com/ -O /home/long/Desktop/tyxoa4 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=7962
+UID=1000
+GID=1000
+START=1610148067
